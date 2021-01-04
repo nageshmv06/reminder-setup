@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reminder-setup/static/css/main.45dd2827.chunk.css",
+    "main.js": "/reminder-setup/static/js/main.099131be.chunk.js",
+    "main.js.map": "/reminder-setup/static/js/main.099131be.chunk.js.map",
+    "runtime-main.js": "/reminder-setup/static/js/runtime-main.063e2d01.js",
+    "runtime-main.js.map": "/reminder-setup/static/js/runtime-main.063e2d01.js.map",
+    "static/js/2.6929fade.chunk.js": "/reminder-setup/static/js/2.6929fade.chunk.js",
+    "static/js/2.6929fade.chunk.js.map": "/reminder-setup/static/js/2.6929fade.chunk.js.map",
+    "index.html": "/reminder-setup/index.html",
+    "precache-manifest.01cf7bffb09fb2626f05c6c359ab686c.js": "/reminder-setup/precache-manifest.01cf7bffb09fb2626f05c6c359ab686c.js",
+    "service-worker.js": "/reminder-setup/service-worker.js",
+    "static/css/main.45dd2827.chunk.css.map": "/reminder-setup/static/css/main.45dd2827.chunk.css.map",
+    "static/js/2.6929fade.chunk.js.LICENSE.txt": "/reminder-setup/static/js/2.6929fade.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.063e2d01.js",
+    "static/js/2.6929fade.chunk.js",
+    "static/css/main.45dd2827.chunk.css",
+    "static/js/main.099131be.chunk.js"
+  ]
+}
